@@ -1,3 +1,8 @@
 <template>
-    <H1>Header</H1>
+    <div>
+        <b-nav>
+            <b-nav-item active>Fancy Quiz App</b-nav-item>
+            <b-nav-item>Counter</b-nav-item>
+        </b-nav>
+    </div>
 </template>
